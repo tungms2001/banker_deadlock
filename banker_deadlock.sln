@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "banker_deadlock", "banker_deadlock\banker_deadlock.vcxproj", "{8F21B70F-801B-4FFC-8848-58B10C6A5AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F21B70F-801B-4FFC-8848-58B10C6A5AF4}.Debug|x64.ActiveCfg = Debug|x64
+		{8F21B70F-801B-4FFC-8848-58B10C6A5AF4}.Debug|x64.Build.0 = Debug|x64
+		{8F21B70F-801B-4FFC-8848-58B10C6A5AF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F21B70F-801B-4FFC-8848-58B10C6A5AF4}.Debug|x86.Build.0 = Debug|Win32
+		{8F21B70F-801B-4FFC-8848-58B10C6A5AF4}.Release|x64.ActiveCfg = Release|x64
+		{8F21B70F-801B-4FFC-8848-58B10C6A5AF4}.Release|x64.Build.0 = Release|x64
+		{8F21B70F-801B-4FFC-8848-58B10C6A5AF4}.Release|x86.ActiveCfg = Release|Win32
+		{8F21B70F-801B-4FFC-8848-58B10C6A5AF4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71C42384-FFCB-4CC6-B32B-8AC40C7E8456}
+	EndGlobalSection
+EndGlobal
